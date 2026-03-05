@@ -1,12 +1,12 @@
-# Salut, moi c'est Mariam ! 👋
+### Mariam Elhaimer
+*Développeuse Fullstack & Exploratrice de Données*
 
-🚀 Développeuse Fullstack & Exploratrice de Données
-"Transformer des lignes de code en solutions concrètes, et des données brutes en décisions intelligentes."
+---
 
-Du schéma architectural à l'interface utilisateur, j'aime construire des outils où l'efficacité est la priorité. Si un processus n'est pas automatisé ou une base de données n'est pas optimisée, j'y vois un défi à relever.
+> "Transformer des lignes de code en solutions concrètes, et des données brutes en décisions intelligentes."
 
-Au-delà du développement :
-Ma curiosité me pousse aujourd'hui vers l'intersection du Web et de la Data. Je m'intéresse particulièrement à la manière dont l'Intelligence Artificielle et l'Analyse de Données peuvent enrichir les applications modernes pour les rendre plus prédictives et personnalisées.
+Passionnée par l'architecture logicielle et l'optimisation, je construis des outils où l'efficacité est la priorité. Ma curiosité me porte aujourd'hui vers l'analyse de données et l'IA pour enrichir les applications modernes.
+
 ---
 
 ### 🛠️ Mes Compétences Techniques
